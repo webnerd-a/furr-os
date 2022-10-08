@@ -1,2 +1,2 @@
-# furry-os
-A OS like but furry 
+# Furry-OS
+FurryOS, a game simulated with a computer furry, made with Godot 
